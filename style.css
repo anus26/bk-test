@@ -1,0 +1,28 @@
+html,body{
+    margin: 0;
+    padding: 0%;
+    background-color: bisque;
+}
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.img-content{
+    text-align: center;
+    padding: 20px 5px ;
+    background-color: a;
+}
+navbar{
+    padding: 20px;
+}
+.img{
+    width: 100%;
+    padding: 20px;
+    
+    
+}
+button{
+    border-radius: 8px;
+    background-color: red;
+}
